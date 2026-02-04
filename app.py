@@ -1,6 +1,6 @@
 import streamlit as st
 
-from apputil import *
+from apputil import ways, lowest_score, sort_names
 
 
 st.write(
